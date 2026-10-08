@@ -62,41 +62,41 @@
 *(請注意：以下截圖已進行去識別化處理，隱藏企業專屬標誌與敏感測試資料。)*
 
 ### 1. 系統安全登入介面
-![系統安全登入介面](./login.png)
+![系統安全登入介面](./demo_file/login.jpg)
 > 展示系統入口，具備三重身分驗證與路由自動分流機制。
 
 ### 2. 註冊與組別綁定介面
-![註冊與組別綁定介面](./register.png)
+![註冊與組別綁定介面](./demo_file/register.jpg)
 > 展示註冊表單，包含事前分配之組別（A~F組）選取與權限綁定設計。
 
 ### 3. 系統管理員：最高權限維運後台
-![系統管理員後台 - 帳號審核](./admin_approval.png)
+![系統管理員後台 - 帳號審核](./demo_file/admin_approval.jpg)
 <br>
-![系統管理員後台 - 帳號維護](./admin_management.png)
+![系統管理員後台 - 帳號維護](./demo_file/admin_management.jpg)
 > 展示管理員執行審核老師與學生、刪除帳號及修改密碼之安全維運操作。
 
 ### 4. 教師端：帳號審核與群組管理
-![教師帳號審核](./teacher_approval.png)
+![教師帳號審核](./demo_file/teacher_approval.jpg)
 > 展示教師檢視待審核名單、執行核准與駁回，以及各組別名單管理介面。
 
 ### 5. 教師端：學習成效與班級數據監控
-![教師學習監控](./teacher_monitoring.png)
-> 展示教師即時監控個別學生測驗完成度、成績走勢與組內和組外比較。
+![教師學習監控](./demo_file/teacher_monitoring.jpg)
+> 展示教師即時監控個別學生測驗完成度、成績走勢與錯題分析。
 
 ### 6. 學生專屬學習儀表板
-![學生專屬學習儀表板 - 主畫面](./student_dashboard_1.png)
+![學生專屬學習儀表板 - 主畫面](./demo_file/student_dashboard_1.jpg)
 <br>
-![學生專屬學習儀表板 - 彈窗操作](./student_dashboard_2.png)
+![學生專屬學習儀表板 - 彈窗操作](./demo_file/student_dashboard_2.jpg)
 > 展示學生入口、自訂彈窗測驗選擇（Modal）與模組化功能區塊。
 
 ### 7. 動態測驗介面
-![動態測驗介面](./quiz_interface.png)
+![動態測驗介面](./demo_file/quiz_interface.jpg)
 > 展示系統的測驗介面。
 
 ### 8. 歷史戰績與學習曲線分析
-![歷史戰績與學習曲線分析](./chart_history.png)
+![歷史戰績與學習曲線分析](./demo_file/chart_history.jpg)
 > 展示 Chart.js 數據視覺化與戰績即時過濾功能。
 
 ### 9. 智慧錯題本與防呆銷案
-![智慧錯題本與防呆銷案](./wrong_book.png)
+![智慧錯題本與防呆銷案](./demo_file/wrong_book.jpg)
 > 展示錯題紀錄、先前錯誤答案比對與兩次容錯提示機制。
